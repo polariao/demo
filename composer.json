@@ -1,0 +1,14 @@
+{
+    "name": "polariao/demo",
+    "description": "demo test",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "polariao",
+            "email": "polariao@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
